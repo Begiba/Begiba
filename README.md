@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **Begiba/Begiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I’m Began Balakrishnan
+
+💻 **Software Engineer** | 🧠 **Tech & Domain Agnostic**  
+🚀 Passionate about building scalable systems and solving real-world problems  
+🛠️ I work across stacks, always eager to explore new tools and technologies  
+📈 Focused on writing clean, maintainable code and driving continuous improvement  
+🤝 Let’s connect and collaborate!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/began-balakrishnan-0a20b221)
